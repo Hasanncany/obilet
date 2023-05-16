@@ -1,1 +1,2 @@
-# obilet
+Test Case Nedir?
+Test Case'ler, yazılımın veya bileşenin belirli bir durumu veya işlemi test etmek için kullanılan talimatları ve adımları içerir. Her test case, testin özelliklerini, kapsamını, giriş verilerini, beklenen sonuçları ve diğer test koşullarını belirtir. Bir test case, yazılımın doğru çalışıp çalışmadığını, belirli bir durumu başarıyla yönetip yönetmediğini veya kullanıcı gereksinimlerini karşılayıp karşılamadığını değerlendirmek için kullanılır. Test Case'ler, yazılım geliştirme sürecinin bir parçası olan test aşamasında kullanılır. Bir yazılımın test edilebilmesi için önceden tanımlanmış test case'ler oluşturulur ve bu test case'ler kullanılarak yazılımın doğru çalıştığı veya hatalar içerdiği belirlenir.
